@@ -22,7 +22,7 @@ Les outils. Une bascule entre le plan et la photo aérienne. Un outil de mesure 
 
 Le zonage du PLUi d'Angers Loire Métropole est intégré au fichier. Il vient du Géoportail de l'urbanisme, récupéré par l'API Carto de l'IGN, puis allégé pour le web. Toute la métropole s'affiche ainsi d'un seul coup.
 
-Le reste est appelé en direct quand on utilise l'application. Les parcelles viennent de l'API Carto. Les adresses viennent de la Base Adresse Nationale. Les risques viennent de Géorisques. Les prix renvoient vers DVF. Les fonds sont CARTO Positron et la photo aérienne de l'IGN.
+Le reste est appelé en direct quand on utilise l'application. Les parcelles viennent de l'API Carto. Les adresses viennent de la Base Adresse Nationale. Les risques viennent de Géorisques. Pour les prix, les ventes récentes sont intégrées sur la commune des Ponts-de-Cé, à partir de DVF, et ailleurs un lien renvoie vers la carte DVF. Les fonds sont CARTO Positron et la photo aérienne de l'IGN.
 
 ## Comment l'ouvrir
 
